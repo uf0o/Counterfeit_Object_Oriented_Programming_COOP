@@ -1,0 +1,10 @@
+﻿  Assembling gadgets.asm...
+  coop.cpp
+C:\Users\uf0\OneDrive\Desktop\CET\COOP-main\COOP\coop.cpp(123,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  offsec.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\uf0\OneDrive\Desktop\CET\COOP-main\COOP\coop.cpp(24): warning C4172: returning address of local variable or temporary: p
+  Finished generating code
+  COOP.vcxproj -> C:\Users\uf0\OneDrive\Desktop\CET\COOP-main\x64\Release\coop.exe
