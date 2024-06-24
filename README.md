@@ -13,6 +13,7 @@ This repository contains the following material:
 
 * **COOP_PoC**: A proof-of-concept application that demonstrates  Counterfeit_Object_Oriented_Programming
 * **CVE-2019-0539_COOP**: Exploit for CVE-2019-0539 based on COOP gadgets.
+* **looper_idapython.py** IDAPython script that finds Looper vfgadgets
 * **COOP.pdf**: Presentation slide deck
 * **demos**: a few demo videos of the PoC application and the MS Edge CVE
 
